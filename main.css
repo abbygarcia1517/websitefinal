@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container{
+	width: 1010px;
+	margin: 0 auto;
+
+}
+
+
+header {
+height: 50px;
+width: 100%;
+text-align: center;
+	
+}
+
+header h1{
+font-family: blenny, sans-serif;
+font-style: normal;
+font-weight: 900;
+color: #8A4A5B;
+	
+}
+
+.flex-container{
+	display: flex;
+	background-color: aqua;
+	flex-direction: row;
+	align-items: stretch;
+	height: 30px;
+	
+}
+
+.flex-container div{
+background-color: #BD76A4;
+flex-grow: 4;
+text-align: center;
+font-family: blenny, sans-serif;
+font-style: normal;
+font-weight: 900;	
+	
+}
+
+
+
+.flex-container2{
+	display: flex;
+	flex-direction: row;
+	align-items: stretch;
+	height: 205px;
+	
+}
+
+.flex-container2 div{
+flex-grow: 4;
+text-align: center;
+background-color: #D6EF84;
+	
+}
+
+
+footer {
+height: 20px;
+width: 100%;
+text-align: center;
+background-color: #BD76A4;
+	
+}
