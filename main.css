@@ -7,7 +7,6 @@
 
 }
 
-
 header {
 height: 50px;
 width: 100%;
@@ -22,6 +21,8 @@ font-weight: 900;
 color: #8A4A5B;
 	
 }
+
+
 
 .flex-container{
 	display: flex;
@@ -49,13 +50,16 @@ font-weight: 900;
 	flex-direction: row;
 	align-items: stretch;
 	height: 500px;
+	font-family: semplicitapro, sans-serif;
+	font-style: normal;
+	font-weight: 300;
 	
 }
 
 .flex-container2 div{
 flex-grow: 4;
 text-align: center;
-background-color: #D6EF84;
+background-color: white;
 	
 }
 
