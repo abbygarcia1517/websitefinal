@@ -70,4 +70,13 @@ width: 100%;
 text-align: center;
 background-color: #BD76A4;
 	
+
 }
+
+/*Responsive Layout */
+@media (max-width: 800px) {
+	.flex-container {
+	flex-direction: column;
+	} }
+
+
