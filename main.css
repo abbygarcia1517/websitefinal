@@ -2,6 +2,15 @@
 /* CSS Document */
 
 
+
+body{
+background: url("Images/Artboard 1.png") repeat;
+	background-repeat: repeat;
+    background-size: cover;	
+	
+}
+
+
 	table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
@@ -31,7 +40,7 @@ header h1{
 font-family: blenny, sans-serif;
 font-style: normal;
 font-weight: 900;
-color: #8A4A5B;
+color: black;
 	
 }
 
